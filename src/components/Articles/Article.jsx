@@ -5,13 +5,19 @@ const Article = (props) => {
     return (
         <div className='article'>
             <img className='img' src={url} alt="" />
-            <div>
-                <img className='person' src={person} alt="" />
-                <h3>{author_name}</h3>
-                <p>{publish_date}</p>
-                <p>{time}</p>
+            <div className='article-info'>
+                <div>
+                    <div className='author-info'>
+                        <img className='person' src={person} alt="" />
+                        <span>
+                            <h3 className='author_name'>{author_name}</h3>
+                            <p>{publish_date}</p>
+                        </span>
+                    </div>
+                </div>
+                <p className='time'>{time} min read</p>
             </div>
-            <h1>{title}</h1>
+            <h1 className='title'>{title}</h1>
         </div>
     );
 };

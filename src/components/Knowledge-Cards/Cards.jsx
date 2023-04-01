@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Article from '../Articles/Article';
+import Bookmark from '../Bookmark/Bookmark';
 import './Cards.css'
 const Cards = () => {
     const [cards, setCards] = useState([]);
@@ -27,8 +28,7 @@ const Cards = () => {
                 }
             </div>
             <div className="bookmarks-container">
-                <h4>Bookmark Summary</h4>
-                <p>Selected Articles: {bookmark.length}</p>
+                <Bookmark bookmark={bookmark}></Bookmark>
             </div>
         </div>
     );

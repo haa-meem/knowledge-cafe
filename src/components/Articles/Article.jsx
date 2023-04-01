@@ -24,6 +24,7 @@ const Article = (props) => {
                 </button></p>
             </div>
             <h1 className='title'>{title}</h1>
+            <button onClick={() => handleAddToBookmark(props.article)}>Mark as read</button>
         </div>
     );
 };

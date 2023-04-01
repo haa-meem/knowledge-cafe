@@ -1,0 +1,10 @@
+.qna{
+    text-align: center;
+    margin: 20px;;
+}
+.qna div>h3{
+    color: brown;
+}
+.qna div>ol{
+    text-align: left;
+}

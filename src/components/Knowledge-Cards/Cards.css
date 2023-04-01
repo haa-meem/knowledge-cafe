@@ -2,3 +2,6 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+.cards-container{
+    margin: 100px;
+}

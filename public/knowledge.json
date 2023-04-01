@@ -2,8 +2,8 @@
     {
         "id": "1",
         "url": "https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80",
-        "person": "https://img.freepik.com/free-photo/indian-programmer-sits-desk-with-laptop-look-camera-with-thoughtful-look-studio-photo-against-dark-textured-wall_613910-20876.jpg?w=900&t=st=1680335773~exp=1680336373~hmac=0bc4e90be868990625b1a755b1692c64061ba954f66615631fc6cfd83498f1aa",
-        "autor_name": "Mr. Raju",
+        "person": "../src/images/person 1.png",
+        "author_name": "Mr. Raju",
         "title": "How to get your first job as a self-taught programmer",
         "publish_date": "Mar 14 (4 Days ago)",
         "time": 5
@@ -11,8 +11,8 @@
     {
         "id": "2",
         "url": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "person": "https://img.freepik.com/free-photo/focused-young-freelancer-while-working-computer-from-home-girlfriend-relaxing-sofa-background_482257-31233.jpg?w=996&t=st=1680336610~exp=1680337210~hmac=9b9ff7e36f921b2462b0f4d8ca9397bd65b488a35d582dc514f2e240331ba84f",
-        "autor_name": "Mr. Roland",
+        "person": "../src/images/person 2.png",
+        "author_name": "Mr. Roland",
         "title": "How to get your first job as a self-taught programmer",
         "publish_date": "Mar 14 (4 Days ago)",
         "time": 10
@@ -20,8 +20,8 @@
     {
         "id": "3",
         "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-        "person": "https://img.freepik.com/free-photo/portrait-hacker_23-2148165969.jpg?w=996&t=st=1680336887~exp=1680337487~hmac=312f51ff059d22f1c5539a334c07baabdc6f4b5694d040f8ae6141eac67fd53d",
-        "autor_name": "R. Tucker",
+        "person": "../src/images/person 3.png",
+        "author_name": "R. Tucker",
         "title": "How to get your first job as a self-taught programmer",
         "publish_date": "Mar 14 (4 Days ago)",
         "time": 15
@@ -29,8 +29,8 @@
     {
         "id": "4",
         "url": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
-        "person": "https://img.freepik.com/free-photo/portrait-african-american-programer-sitting-down-working-laptop-arranging-glasses-looking-up-smiling-camera-system-engineer-using-portable-computer-computing-big-data_482257-40598.jpg?w=1060&t=st=1680336948~exp=1680337548~hmac=8142ec22d911d08ff8a6751a96b19c674ce205dbc225c4207bc5c0ecb2da1148",
-        "autor_name": "Mr. Mendela",
+        "person": "../src/images/person 4.png",
+        "author_name": "Mr. Mendela",
         "title": "How to get your first job as a self-taught programmer",
         "publish_date": "Mar 14 (4 Days ago)",
         "time": 20
